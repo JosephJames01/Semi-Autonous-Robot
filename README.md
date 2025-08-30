@@ -1,4 +1,4 @@
-#🤖Semi Autonomous Robot for Inventory Monitoring within SMEs
+# 🤖Semi Autonomous Robot for Inventory Monitoring within SMEs
 
 This project utillsies a custom Yolov8 model trained on inventory data from a warehouse, as well as advanced navigation that utilises PID control and modelling using Matplotlib.
 
